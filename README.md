@@ -1,4 +1,4 @@
-# Stock-Closing-Price-Predictions-using-GRU
+# Stock Closing Price Predictions using GRU
 
 
 Context:
